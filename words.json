@@ -1,0 +1,4255 @@
+[
+  {
+    "word": "aback",
+    "phonics": [
+      {
+        "phonic": "əbæk",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "ck",
+            "sound": "k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abase",
+    "phonics": [
+      {
+        "phonic": "əbeɪs",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "se",
+            "sound": "s"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abate",
+    "phonics": [
+      {
+        "phonic": "əbeɪt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "te",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abbey",
+    "phonics": [
+      {
+        "phonic": "æbi",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "bb",
+            "sound": "b"
+          },
+          {
+            "letter": "ey",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abbot",
+    "phonics": [
+      {
+        "phonic": "æbət",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "bb",
+            "sound": "b"
+          },
+          {
+            "letter": "o",
+            "sound": "ə"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abhor",
+    "phonics": [
+      {
+        "phonic": "əbhɔr",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "h",
+            "sound": "h"
+          },
+          {
+            "letter": "or",
+            "sound": "ɔr"
+          }
+        ]
+      },
+      {
+        "phonic": "æbhɔr",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "h",
+            "sound": "h"
+          },
+          {
+            "letter": "or",
+            "sound": "ɔr"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abide",
+    "phonics": [
+      {
+        "phonic": "əbaɪd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "i",
+            "sound": "aɪ"
+          },
+          {
+            "letter": "de",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abode",
+    "phonics": [
+      {
+        "phonic": "əboʊd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "o",
+            "sound": "oʊ"
+          },
+          {
+            "letter": "de",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abort",
+    "phonics": [
+      {
+        "phonic": "əbɔrt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "or",
+            "sound": "ɔr"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "about",
+    "phonics": [
+      {
+        "phonic": "əbaʊt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "ou",
+            "sound": "aʊ"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "above",
+    "phonics": [
+      {
+        "phonic": "əbʌv",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "o",
+            "sound": "ʌ"
+          },
+          {
+            "letter": "ve",
+            "sound": "v"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abuse",
+    "phonics": [
+      {
+        "phonic": "əbyus",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "u",
+            "sound": "yu"
+          },
+          {
+            "letter": "se",
+            "sound": "s"
+          }
+        ]
+      },
+      {
+        "phonic": "əbUs",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "u",
+            "sound": "U"
+          },
+          {
+            "letter": "se",
+            "sound": "s"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abuzz",
+    "phonics": [
+      {
+        "phonic": "əbʌz",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "u",
+            "sound": "v"
+          },
+          {
+            "letter": "zz",
+            "sound": "z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abyss",
+    "phonics": [
+      {
+        "phonic": "əbɪs",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "y",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "ss",
+            "sound": "s"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "achoo",
+    "phonics": [
+      {
+        "phonic": "ətʃu",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "ch",
+            "sound": "tʃ"
+          },
+          {
+            "letter": "oo",
+            "sound": "u"
+          }
+        ]
+      },
+      {
+        "phonic": "ɑtʃu",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "ch",
+            "sound": "tʃ"
+          },
+          {
+            "letter": "oo",
+            "sound": "u"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "acorn",
+    "phonics": [
+      {
+        "phonic": "eɪkɔrn",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "c",
+            "sound": "k"
+          },
+          {
+            "letter": "or",
+            "sound": "ɔr"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "acrid",
+    "phonics": [
+      {
+        "phonic": "ækrɪd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "c",
+            "sound": "k"
+          },
+          {
+            "letter": "r",
+            "sound": "r"
+          },
+          {
+            "letter": "i",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "actor",
+    "phonics": [
+      {
+        "phonic": "æktər",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "c",
+            "sound": "k"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "or",
+            "sound": "ər"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "acute",
+    "phonics": [
+      {
+        "phonic": "əkyut",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "c",
+            "sound": "k"
+          },
+          {
+            "letter": "u",
+            "sound": "yu"
+          },
+          {
+            "letter": "te",
+            "sound": "t"
+          }
+        ]
+      },
+      {
+        "phonic": "əQt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "cu",
+            "sound": "Q"
+          },
+          {
+            "letter": "te",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adage",
+    "phonics": [
+      {
+        "phonic": "ædɪdʒ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "a",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "ge",
+            "sound": "dʒ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adapt",
+    "phonics": [
+      {
+        "phonic": "ədæpt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "p",
+            "sound": "p"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adept",
+    "phonics": [
+      {
+        "phonic": "ədɛpt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "e",
+            "sound": "ɛ"
+          },
+          {
+            "letter": "p",
+            "sound": "p"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "admin",
+    "phonics": [
+      {
+        "phonic": "ædmɪn",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "i",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "admit",
+    "phonics": [
+      {
+        "phonic": "ədmɪt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "i",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adobe",
+    "phonics": [
+      {
+        "phonic": "ədoʊbi",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "o",
+            "sound": "oʊ"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "e",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adopt",
+    "phonics": [
+      {
+        "phonic": "ədɑpt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "o",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "p",
+            "sound": "p"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adore",
+    "phonics": [
+      {
+        "phonic": "ədɔr",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "ore",
+            "sound": "ɔr"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adorn",
+    "phonics": [
+      {
+        "phonic": "ədɔrn",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "or",
+            "sound": "ɔr"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adult",
+    "phonics": [
+      {
+        "phonic": "ədʌlt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "u",
+            "sound": "v"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      },
+      {
+        "phonic": "ædʌlt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "u",
+            "sound": "v"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aerie",
+    "phonics": [
+      {
+        "phonic": "ɪri",
+        "syllables": [
+          {
+            "letter": "ae",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "r",
+            "sound": "r"
+          },
+          {
+            "letter": "ie",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "affix",
+    "phonics": [
+      {
+        "phonic": "əfɪks",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "ff",
+            "sound": "f"
+          },
+          {
+            "letter": "i",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "x",
+            "sound": ["k", "s"]
+          }
+        ]
+      },
+      {
+        "phonic": "əfɪX",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "ff",
+            "sound": "f"
+          },
+          {
+            "letter": "i",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "x",
+            "sound": "X"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "afoot",
+    "phonics": [
+      {
+        "phonic": "əfʊt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "f",
+            "sound": "f"
+          },
+          {
+            "letter": "oo",
+            "sound": "ʊ"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "afoul",
+    "phonics": [
+      {
+        "phonic": "əfaʊl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "f",
+            "sound": "f"
+          },
+          {
+            "letter": "ou",
+            "sound": "aʊ"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "after",
+    "phonics": [
+      {
+        "phonic": "æftər",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "f",
+            "sound": "f"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "er",
+            "sound": "ər"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "again",
+    "phonics": [
+      {
+        "phonic": "əɡɛn",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "ai",
+            "sound": "ɛ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agape",
+    "phonics": [
+      {
+        "phonic": "əɡeɪp",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "pe",
+            "sound": "p"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agate",
+    "phonics": [
+      {
+        "phonic": "æɡət",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "te",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agave",
+    "phonics": [
+      {
+        "phonic": "əɡɑvi",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "a",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "v",
+            "sound": "v"
+          },
+          {
+            "letter": "e",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agent",
+    "phonics": [
+      {
+        "phonic": "eɪdʒənt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "g",
+            "sound": "dʒ"
+          },
+          {
+            "letter": "e",
+            "sound": "ə"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agile",
+    "phonics": [
+      {
+        "phonic": "ædʒl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "g",
+            "sound": "dʒ"
+          },
+          {
+            "letter": "i",
+            "sound": "aɪ"
+          },
+          {
+            "letter": "le",
+            "sound": "l"
+          }
+        ]
+      },
+      {
+        "phonic": "ædʒaɪl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "g",
+            "sound": "dʒ"
+          },
+          {
+            "letter": "ile",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aging",
+    "phonics": [
+      {
+        "phonic": "eɪdʒɪŋ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "g",
+            "sound": "dʒ"
+          },
+          {
+            "letter": "i",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "ng",
+            "sound": "ŋ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aglow",
+    "phonics": [
+      {
+        "phonic": "əɡloʊ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "ow",
+            "sound": "oʊ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agony",
+    "phonics": [
+      {
+        "phonic": "æɡəni",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "o",
+            "sound": "ə"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "y",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agree",
+    "phonics": [
+      {
+        "phonic": "əɡri",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "r",
+            "sound": "r"
+          },
+          {
+            "letter": "ee",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ahead",
+    "phonics": [
+      {
+        "phonic": "əhɛd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "h",
+            "sound": "h"
+          },
+          {
+            "letter": "ea",
+            "sound": "ɛ"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aired",
+    "phonics": [
+      {
+        "phonic": "ɛrd",
+        "syllables": [
+          {
+            "letter": "air",
+            "sound": "ɛr"
+          },
+          {
+            "letter": "ed",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aisle",
+    "phonics": [
+      {
+        "phonic": "aɪl",
+        "syllables": [
+          {
+            "letter": "ais",
+            "sound": "aɪ"
+          },
+          {
+            "letter": "le",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alarm",
+    "phonics": [
+      {
+        "phonic": "əlɑrm",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "a",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "r",
+            "sound": "r"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "album",
+    "phonics": [
+      {
+        "phonic": "ælbəm",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "u",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alert",
+    "phonics": [
+      {
+        "phonic": "ələrt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "er",
+            "sound": "ər"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "algae",
+    "phonics": [
+      {
+        "phonic": "ældʒi",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "g",
+            "sound": "dʒ"
+          },
+          {
+            "letter": "ae",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alibi",
+    "phonics": [
+      {
+        "phonic": "æləbaɪ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "i",
+            "sound": "ə"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "i",
+            "sound": "aɪ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alien",
+    "phonics": [
+      {
+        "phonic": "eɪliən",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "i",
+            "sound": "i"
+          },
+          {
+            "letter": "e",
+            "sound": "ə"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      },
+      {
+        "phonic": "eɪlyən",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "i",
+            "sound": "y"
+          },
+          {
+            "letter": "e",
+            "sound": "ə"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "align",
+    "phonics": [
+      {
+        "phonic": "əlaɪn",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "i",
+            "sound": "aɪ"
+          },
+          {
+            "letter": "gn",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alike",
+    "phonics": [
+      {
+        "phonic": "əlaɪk",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "i",
+            "sound": "aɪ"
+          },
+          {
+            "letter": "ke",
+            "sound": "k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alive",
+    "phonics": [
+      {
+        "phonic": "əlaɪv",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "i",
+            "sound": "aɪ"
+          },
+          {
+            "letter": "ve",
+            "sound": "v"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "allay",
+    "phonics": [
+      {
+        "phonic": "əleɪ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "ll",
+            "sound": "l"
+          },
+          {
+            "letter": "ay",
+            "sound": "eɪ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alley",
+    "phonics": [
+      {
+        "phonic": "æli",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "ll",
+            "sound": "l"
+          },
+          {
+            "letter": "ey",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "allot",
+    "phonics": [
+      {
+        "phonic": "əlɑt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "ll",
+            "sound": "l"
+          },
+          {
+            "letter": "o",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "allow",
+    "phonics": [
+      {
+        "phonic": "əlaʊ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "ll",
+            "sound": "l"
+          },
+          {
+            "letter": "ow",
+            "sound": "aʊ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alloy",
+    "phonics": [
+      {
+        "phonic": "ælɔɪ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "ll",
+            "sound": "l"
+          },
+          {
+            "letter": "oy",
+            "sound": "ɔɪ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aloft",
+    "phonics": [
+      {
+        "phonic": "əlɔft",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "o",
+            "sound": "ɔ"
+          },
+          {
+            "letter": "f",
+            "sound": "f"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alone",
+    "phonics": [
+      {
+        "phonic": "əloʊn",
+          "syllables": [
+            {
+              "letter": "a",
+              "sound": "ə"
+            },
+            {
+              "letter": "l",
+              "sound": "l"
+            },
+            {
+              "letter": "o",
+              "sound": "oʊ"
+            },
+            {
+              "letter": "ne",
+              "sound": "n"
+            }
+          ]
+      }
+    ]
+  },
+  {
+    "word": "along",
+    "phonics": [
+      {
+        "phonic": "əlɔŋ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+            {
+              "letter": "o",
+              "sound": "ɔ"
+            },
+            {
+              "letter": "ng",
+              "sound": "ŋ"
+            }
+          ]
+      }
+    ]
+  },
+  {
+    "word": "aloof",
+    "phonics": [
+      {
+        "phonic": "əluf",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "oo",
+            "sound": "u"
+          },
+          {
+            "letter": "f",
+            "sound": "f"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aloud",
+    "phonics": [
+      {
+        "phonic": "əlaʊd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "ou",
+            "sound": "aʊ"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alpha",
+    "phonics": [
+      {
+        "phonic": "ælfə",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "ph",
+            "sound": "f"
+          },
+          {
+            "letter": "a",
+            "sound": "ə"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "altar",
+    "phonics": [
+      {
+        "phonic": "ɔltər",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ɔ"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "ar",
+            "sound": "ər"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alter",
+    "phonics": [
+      {
+        "phonic": "ɔltər",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ɔ"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "ar",
+            "sound": "ər"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amass",
+    "phonics": [
+      {
+        "phonic": "əmæs",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "ss",
+            "sound": "s"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amaze",
+    "phonics": [
+      {
+        "phonic": "əmeɪz",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "ze",
+            "sound": "z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amber",
+    "phonics": [
+      {
+        "phonic": "æmbər",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "er",
+            "sound": "ər"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amble",
+    "phonics": [
+      {
+        "phonic": "æmbl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "le",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amend",
+    "phonics": [
+      {
+        "phonic": "əmɛnd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "e",
+            "sound": "ɛ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amino",
+    "phonics": [
+      {
+        "phonic": "əminoʊ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "i",
+            "sound": "i"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "o",
+            "sound": "oʊ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amiss",
+    "phonics": [
+      {
+        "phonic": "əmɪs",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "i",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "ss",
+            "sound": "s"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amity",
+    "phonics": [
+      {
+        "phonic": "æmət̮i",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "i",
+            "sound": "ə"
+          },
+          {
+            "letter": "t",
+            "sound": "t̮"
+          },
+          {
+            "letter": "y",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "among",
+    "phonics": [
+      {
+        "phonic": "əmʌŋ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "o",
+            "sound": "ʌ"
+          },
+          {
+            "letter": "ng",
+            "sound": "ŋ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ample",
+    "phonics": [
+      {
+        "phonic": "æmpl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "p",
+            "sound": "p"
+          },
+          {
+            "letter": "le",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amply",
+    "phonics": [
+      {
+        "phonic": "æmpli",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "p",
+            "sound": "p"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "y",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amuse",
+    "phonics": [
+      {
+        "phonic": "əmyuz",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "u",
+            "sound": "yu"
+          },
+          {
+            "letter": "se",
+            "sound": "z"
+          }
+        ]
+      },
+      {
+        "phonic": "əmUz",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "u",
+            "sound": "U"
+          },
+          {
+            "letter": "se",
+            "sound": "z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "angel",
+    "phonics": [
+      {
+        "phonic": "eɪndʒl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "g",
+            "sound": "dʒ"
+          },
+          {
+            "letter": "el",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "anger",
+    "phonics": [
+      {
+        "phonic": "æŋɡər",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "n",
+            "sound": "ŋ"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "er",
+            "sound": "ər"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "angle",
+    "phonics": [
+      {
+        "phonic": "æŋɡl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "n",
+            "sound": "ŋ"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "le",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "angry",
+    "phonics": [
+      {
+        "phonic": "æŋɡri",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "n",
+            "sound": "ŋ"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "r",
+            "sound": "r"
+          },
+          {
+            "letter": "y",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "angst",
+    "phonics": [
+      {
+        "phonic": "ɑŋst",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "ng",
+            "sound": "ŋ"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      },
+      {
+        "phonic": "æŋst",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "ng",
+            "sound": "ŋ"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "anime",
+    "phonics": [
+      {
+        "phonic": "ænəmeɪ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "i",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "e",
+            "sound": "eɪ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ankle",
+    "phonics": [
+      {
+        "phonic": "æŋkl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "n",
+            "sound": "ŋ"
+          },
+          {
+            "letter": "k",
+            "sound": "k"
+          },
+          {
+            "letter": "le",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "annex",
+    "phonics": [
+      {
+        "phonic": "ənɛks",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "nn",
+            "sound": "n"
+          },
+          {
+            "letter": "e",
+            "sound": "ɛ"
+          },
+          {
+            "letter": "x",
+            "sound": ["k", "s"]
+          }
+        ]
+      },
+      {
+        "phonic": "ænɛks",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "nn",
+            "sound": "n"
+          },
+          {
+            "letter": "e",
+            "sound": "ɛ"
+          },
+          {
+            "letter": "x",
+            "sound": ["k", "s"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "annoy",
+    "phonics": [
+      {
+        "phonic": "ənɔɪ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "nn",
+            "sound": "n"
+          },
+          {
+            "letter": "oy",
+            "sound": "ɔɪ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "annul",
+    "phonics": [
+      {
+        "phonic": "ənʌl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "nn",
+            "sound": "n"
+          },
+          {
+            "letter": "u",
+            "sound": "v"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "anode",
+    "phonics": [
+      {
+        "phonic": "ænoʊd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "o",
+            "sound": "oʊ"
+          },
+          {
+            "letter": "de",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "antsy",
+    "phonics": [
+      {
+        "phonic": "æntsi",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "y",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "anvil",
+    "phonics": [
+      {
+        "phonic": "ænvl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "v",
+            "sound": "v"
+          },
+          {
+            "letter": "il",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aorta",
+    "phonics": [
+      {
+        "phonic": "eɪɔrt̮ə",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "or",
+            "sound": "ɔr"
+          },
+          {
+            "letter": "t",
+            "sound": "t̮"
+          },
+          {
+            "letter": "a",
+            "sound": "ə"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "apart",
+    "phonics": [
+      {
+        "phonic": "əpɑrt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "p",
+            "sound": "p"
+          },
+          {
+            "letter": "ar",
+            "sound": "ɑr"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aphid",
+    "phonics": [
+      {
+        "phonic": "eɪfɪd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "ph",
+            "sound": "f"
+          },
+          {
+            "letter": "i",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "apnea",
+    "phonics": [
+      {
+        "phonic": "æpniə",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "p",
+            "sound": "p"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "e",
+            "sound": "i"
+          },
+          {
+            "letter": "a",
+            "sound": "ə"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "apple",
+    "phonics": [
+      {
+        "phonic": "æpl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "pp",
+            "sound": "p"
+          },
+          {
+            "letter": "le",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "apply",
+    "phonics": [
+      {
+        "phonic": "əplaɪ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "pp",
+            "sound": "p"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "y",
+            "sound": "aɪ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "apron",
+    "phonics": [
+      {
+        "phonic": "eɪprən",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "p",
+            "sound": "p"
+          },
+          {
+            "letter": "r",
+            "sound": "r"
+          },
+          {
+            "letter": "o",
+            "sound": "ə"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aptly",
+    "phonics": [
+      {
+        "phonic": "æptli",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "p",
+            "sound": "p"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "y",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arbor",
+    "phonics": [
+      {
+        "phonic": "",
+        "syllables": [
+          {
+            "letter": "ar",
+            "sound": "ɑr"
+          },
+          {
+            "letter": "b",
+            "sound": "b"
+          },
+          {
+            "letter": "or",
+            "sound": "ər"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ardor",
+    "phonics": [
+      {
+        "phonic": "ɑrdər",
+        "syllables": [
+          {
+            "letter": "ar",
+            "sound": "ɑr"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "or",
+            "sound": "ər"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arena",
+    "phonics": [
+      {
+        "phonic": "ərinə",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "r",
+            "sound": "r"
+          },
+          {
+            "letter": "e",
+            "sound": "i"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "a",
+            "sound": "ə"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "argon",
+    "phonics": [
+      {
+        "phonic": "ɑrɡɑn",
+        "syllables": [
+          {
+            "letter": "ar",
+            "sound": "ɑr"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "o",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "argue",
+    "phonics": [
+      {
+        "phonic": "ɑrɡyu",
+        "syllables": [
+          {
+            "letter": "ar",
+            "sound": "ɑr"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "ue",
+            "sound": ["y", "u"]
+          }
+        ]
+      },
+      {
+        "phonic": "ɑrɡU",
+        "syllables": [
+          {
+            "letter": "ar",
+            "sound": "ɑr"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "ue",
+            "sound": "U"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arise",
+    "phonics": [
+      {
+        "phonic": "əraɪz",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "r",
+            "sound": "r"
+          },
+          {
+            "letter": "i",
+            "sound": "aɪ"
+          },
+          {
+            "letter": "se",
+            "sound": "z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "armed",
+    "phonics": [
+      {
+        "phonic": "ɑrmd",
+        "syllables": [
+          {
+            "letter": "ar",
+            "sound": "ɑr"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "ed",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "armor",
+    "phonics": [
+      {
+        "phonic": "ɑrmər",
+        "syllables": [
+          {
+            "letter": "ar",
+            "sound": "ɑr"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "or",
+            "sound": "ər"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aroma",
+    "phonics": [
+      {
+        "phonic": "əroʊmə",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "r",
+            "sound": "r"
+          },
+          {
+            "letter": "o",
+            "sound": "oʊ"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          },
+          {
+            "letter": "a",
+            "sound": "ə"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arose",
+    "phonics": [
+      {
+        "phonic": "əroʊz",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "r",
+            "sound": "r"
+          },
+          {
+            "letter": "o",
+            "sound": "oʊ"
+          },
+          {
+            "letter": "se",
+            "sound": "z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "array",
+    "phonics": [
+      {
+        "phonic": "əreɪ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "rr",
+            "sound": "r"
+          },
+          {
+            "letter": "ay",
+            "sound": "eɪ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arrow",
+    "phonics": [
+      {
+        "phonic": "æroʊ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "rr",
+            "sound": "r"
+          },
+          {
+            "letter": "ow",
+            "sound": "oʊ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arson",
+    "phonics": [
+      {
+        "phonic": "ɑrsn",
+        "syllables": [
+          {
+            "letter": "ar",
+            "sound": "ɑr"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "artsy",
+    "phonics": [
+      {
+        "phonic": "ɑrtsi",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "r",
+            "sound": "r"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "i",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ascot",
+    "phonics": [
+      {
+        "phonic": "æskɑt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "c",
+            "sound": "k"
+          },
+          {
+            "letter": "o",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ashen",
+    "phonics": [
+      {
+        "phonic": "æʃn",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "sh",
+            "sound": "ʃ"
+          },
+          {
+            "letter": "en",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "asked",
+    "phonics": [
+      {
+        "phonic": "æskd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "k",
+            "sound": "k"
+          },
+          {
+            "letter": "ed",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aspen",
+    "phonics": [
+      {
+        "phonic": "æspən",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "p",
+            "sound": "p"
+          },
+          {
+            "letter": "e",
+            "sound": "ə"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aside",
+    "phonics": [
+      {
+        "phonic": "əsaɪd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "i",
+            "sound": "aɪ"
+          },
+          {
+            "letter": "de",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "askew",
+    "phonics": [
+      {
+        "phonic": "əskyu",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "k",
+            "sound": "k"
+          },
+          {
+            "letter": "ew",
+            "sound": ["y", "u"]
+          }
+        ]
+      },
+      {
+        "phonic": "əsQ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "kew",
+            "sound": "Q"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "assay",
+    "phonics": [
+      {
+        "phonic": "æseɪ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "ss",
+            "sound": "s"
+          },
+          {
+            "letter": "ay",
+            "sound": "eɪ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "asset",
+    "phonics": [
+      {
+        "phonic": "æsɛt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          },
+          {
+            "letter": "e",
+            "sound": "ɛ"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "atlas",
+    "phonics": [
+      {
+        "phonic": "ætləs",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          },
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "s",
+            "sound": "s"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "atoll",
+    "phonics": [
+      {
+        "phonic": "ætɔl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "o",
+            "sound": "ɔ"
+          },
+          {
+            "letter": "ll",
+            "sound": "l"
+          }
+        ]
+      },
+      {
+        "phonic": "ætɑl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "o",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "ll",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "atone",
+    "phonics": [
+      {
+        "phonic": "ətoʊn",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "o",
+            "sound": "oʊ"
+          },
+          {
+            "letter": "ne",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "attic",
+    "phonics": [
+      {
+        "phonic": "æt̮ɪk",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "tt",
+            "sound": "t̮"
+          },
+          {
+            "letter": "i",
+            "sound": "ɪ"
+          },
+          {
+            "letter": "c",
+            "sound": "k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "audio",
+    "phonics": [
+      {
+        "phonic": "ɔdioʊ",
+        "syllables": [
+          {
+            "letter": "au",
+            "sound": "ɔ"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "i",
+            "sound": "i"
+          },
+          {
+            "letter": "o",
+            "sound": "oʊ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "audit",
+    "phonics": [
+      {
+        "phonic": "ɔdət",
+        "syllables": [
+          {
+            "letter": "au",
+            "sound": "ɔ"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          },
+          {
+            "letter": "i",
+            "sound": "ə"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "augur",
+    "phonics": [
+      {
+        "phonic": "ɔɡər",
+        "syllables": [
+          {
+            "letter": "au",
+            "sound": "ɔ"
+          },
+          {
+            "letter": "g",
+            "sound": "ɡ"
+          },
+          {
+            "letter": "ur",
+            "sound": "ər"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aunty",
+    "phonics": [
+      {
+        "phonic": "ænti",
+        "syllables": [
+          {
+            "letter": "au",
+            "sound": "æ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "y",
+            "sound": "i"
+          }
+        ]
+      },
+      {
+        "phonic": "ɑnti",
+        "syllables": [
+          {
+            "letter": "au",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          },
+          {
+            "letter": "y",
+            "sound": "i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "avail",
+    "phonics": [
+      {
+        "phonic": "əveɪl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "v",
+            "sound": "v"
+          },
+          {
+            "letter": "ai",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "avert",
+    "phonics": [
+      {
+        "phonic": "əvərt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "v",
+            "sound": "v"
+          },
+          {
+            "letter": "er",
+            "sound": "ər"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "avian",
+    "phonics": [
+      {
+        "phonic": "",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "v",
+            "sound": "v"
+          },
+          {
+            "letter": "i",
+            "sound": "i"
+          },
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "avoid",
+    "phonics": [
+      {
+        "phonic": "əvɔɪd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "v",
+            "sound": "v"
+          },
+          {
+            "letter": "oi",
+            "sound": "ɔɪ"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "await",
+    "phonics": [
+      {
+        "phonic": "əweɪt",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "w",
+            "sound": "w"
+          },
+          {
+            "letter": "ai",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "t",
+            "sound": "t"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "awake",
+    "phonics": [
+      {
+        "phonic": "əweɪk",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "w",
+            "sound": "w"
+          },
+          {
+            "letter": "a",
+            "sound": "eɪ"
+          },
+          {
+            "letter": "ke",
+            "sound": "k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "award",
+    "phonics": [
+      {
+        "phonic": "əwɔrd",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "w",
+            "sound": "w"
+          },
+          {
+            "letter": "ar",
+            "sound": "ɔr"
+          },
+          {
+            "letter": "d",
+            "sound": "d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aware",
+    "phonics": [
+      {
+        "phonic": "əwɛr",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "w",
+            "sound": "w"
+          },
+          {
+            "letter": "are",
+            "sound": "ɛr"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "awash",
+    "phonics": [
+      {
+        "phonic": "əwɑʃ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "w",
+            "sound": "w"
+          },
+          {
+            "letter": "a",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "sh",
+            "sound": "ʃ"
+          }
+        ]
+      },
+      {
+        "phonic": "əwɔʃ",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "w",
+            "sound": "w"
+          },
+          {
+            "letter": "a",
+            "sound": "ɔ"
+          },
+          {
+            "letter": "sh",
+            "sound": "ʃ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "awful",
+    "phonics": [
+      {
+        "phonic": "ɔfl",
+        "syllables": [
+          {
+            "letter": "aw",
+            "sound": "ɔ"
+          },
+          {
+            "letter": "f",
+            "sound": "f"
+          },
+          {
+            "letter": "ul",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "awoke",
+    "phonics": [
+      {
+        "phonic": "əwoʊk",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "w",
+            "sound": "w"
+          },
+          {
+            "letter": "o",
+            "sound": "oʊ"
+          },
+          {
+            "letter": "ke",
+            "sound": "k"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "axial",
+    "phonics": [
+      {
+        "phonic": "æksiəl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "x",
+            "sound": ["k", "s"]
+          },
+          {
+            "letter": "i",
+            "sound": "i"
+          },
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          }
+        ]
+      },
+      {
+        "phonic": "æXiəl",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "x",
+            "sound": "X"
+          },
+          {
+            "letter": "i",
+            "sound": "i"
+          },
+          {
+            "letter": "a",
+            "sound": "ə"
+          },
+          {
+            "letter": "l",
+            "sound": "l"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "axiom",
+    "phonics": [
+      {
+        "phonic": "æksiəm",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "x",
+            "sound": ["k", "s"]
+          },
+          {
+            "letter": "i",
+            "sound": "i"
+          },
+          {
+            "letter": "o",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          }
+        ]
+      },
+      {
+        "phonic": "æXiəm",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "x",
+            "sound": "X"
+          },
+          {
+            "letter": "i",
+            "sound": "i"
+          },
+          {
+            "letter": "o",
+            "sound": "ə"
+          },
+          {
+            "letter": "m",
+            "sound": "m"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "axion",
+    "phonics": [
+      {
+        "phonic": "æksiɑn",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "x",
+            "sound": ["k", "s"]
+          },
+          {
+            "letter": "i",
+            "sound": "i"
+          },
+          {
+            "letter": "o",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      },
+      {
+        "phonic": "æXiɑn",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "x",
+            "sound": "X"
+          },
+          {
+            "letter": "i",
+            "sound": "i"
+          },
+          {
+            "letter": "o",
+            "sound": "ɑ"
+          },
+          {
+            "letter": "n",
+            "sound": "n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "azure",
+    "phonics": [
+      {
+        "phonic": "æʒər",
+        "syllables": [
+          {
+            "letter": "a",
+            "sound": "æ"
+          },
+          {
+            "letter": "z",
+            "sound": "ʒ"
+          },
+          {
+            "letter": "ure",
+            "sound": "ər"
+          }
+        ]
+      }
+    ]
+  }
+]
