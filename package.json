@@ -1,18 +1,22 @@
 {
-  "version": "1.0.1",
   "name": "@slushman/words-db",
+  "version": "1.0.0",
   "description": "JSON file of words to use for word-based games.",
   "main": "index.ts",
-  "license": "MIT",
-  "author": {
-    "name": "slushman",
-    "email": "chris@slushman.com"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/slushman/words-db"
+    "type": "git",
+    "url": "git+https://github.com/slushman/words-db.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/slushman"
-  }
+  "keywords": [
+    "words"
+  ],
+  "author": "slushman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slushman/words-db/issues"
+  },
+  "homepage": "https://github.com/slushman/words-db#readme"
 }
