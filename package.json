@@ -1,7 +1,9 @@
 {
   "version": "1.0.1",
   "name": "@slushman/words-db",
-  "description": "description",
+  "description": "JSON file of words to use for word-based games.",
+  "main": "index.ts",
+  "license": "MIT",
   "author": {
     "name": "slushman",
     "email": "chris@slushman.com"
